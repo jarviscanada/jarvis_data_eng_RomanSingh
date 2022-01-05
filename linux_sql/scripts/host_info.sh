@@ -40,8 +40,8 @@ cpu_model,
 cpu_architecture,
 cpu_number,
 hostname)
-VALUES('
-$timestamp',
+VALUES(
+'$timestamp',
 '$total_mem',
 '$l2_cache',
 '$cpu_mhz',
