@@ -30,7 +30,17 @@ timestamp= $(vmstat -t | tail -n1 | awk '{print $18, $19}' | xargs)
 
 
 #Insert into PSQL host_info.
-insert_stmt="INSERT INTO PUBLIC.host_info(timestamp, total_mem, l2_cache, cpu_mhz, cpu_model, cpu_architecture, cpu_number, hostname)VALUES('$timestamp', '$total_mem', '$l2_cache', '$cpu_mhz', '$cpu_model', '$cpu_architecture', '$cpu_number', '$hostname')"
+insert_stmt="INSERT INTO PUBLIC.host_info(
+timestamp,
+total_mem,
+l2_cache,
+cpu_mhz,
+cpu_model,
+cpu_architecture,
+cpu_number,
+hostname)
+VALUES('$timestamp', '$total_mem',
+'$l2_cache', '$cpu_mhz', '$cpu_model', '$cpu_architecture', '$cpu_number', '$hostname')"
 
 #env variable for psql command
 export PGPASSWORD=$psql_password
