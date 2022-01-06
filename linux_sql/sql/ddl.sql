@@ -17,5 +17,5 @@ CREATE TABLE IF NOT EXISTS PUBLIC.host_usage(
      cpu_idle       INT NOT NULL,
      cpu_kernel     INT NOT NULL,
      disk_io        INT NOT NULL,
-     disk_available INT NOT NULL
+     disk_available FLOAT NOT NULL
   );
