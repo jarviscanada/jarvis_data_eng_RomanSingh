@@ -28,4 +28,4 @@ psql -h localhost -U postgres -d host_agent -f sql/ddl.sql
 A copy of `host_info.sh` and `host_usage.sh` is stored in each host/node. `host_info.sh` records the hardware specifications while `host_usage.sh` records the resource usage data. The data is then recorded into postgreSQL database called `host_agent`, which containts two tables `host_info` and `host_usage`. The resource usage data is collected every minute through the use of `crontab`. The database is provisioned using using Docker by creating a psql image and creating a volume (`pgdata`) to preserve data. 
 
 # Architecture 
-
+<img src = './assets/demo.drawio.png'>
