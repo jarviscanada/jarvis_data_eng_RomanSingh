@@ -89,3 +89,16 @@ The two tables below show the schema for Host Info and Host Usage.
 | disk_io        | INT       | not null                     | 
 | disk_available | FLOAT     | not null                     |
 
+# Testing 
+
+
+
+
+# Deployment 
+- Through the use of Docker a postgreSQL database was provisioned. The `host_info.sh` script was run once to record hardware specs, while the `host_usage.sh` was run every minute with crontab to record usage data every minute. All the scripts were stored on GitHub. 
+
+# Improvements
+- Creating an option to update hardware specs
+- Being able to add a new crontab job with bash scripts
+- Including more columns such as average power use 
+
