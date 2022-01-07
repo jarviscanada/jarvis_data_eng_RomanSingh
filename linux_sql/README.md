@@ -29,3 +29,63 @@ A copy of `host_info.sh` and `host_usage.sh` is stored in each host/node. `host_
 
 # Architecture 
 <img src = './assets/demo.drawio.png'>
+
+# Scripts
+Below are the scripts used along with their description. 
+
+- `psql_docker.sh`:
+  - Provisions a PSQL instance using Docker 
+  - Starts/stops the Docker container containing the PSQL instance.
+  
+  `./scripts/psql_docker.sh create|start|stop DB_USERNAME DB_PASSWORD`
+ 
+- `host_usage.sh`:
+  - collects host usage data 
+  - Inserts data into the `host_agent` database, the `host_usage` table specifically 
+  
+  `./scripts/host_usage.sh HOST_NAME PSQL_PORT db_name db_username db_password`
+ 
+- `host_info.sh`:
+  - collects hardware info 
+  - Inserts data into the `host_agent` database, the `host_info` table specifically
+  
+  `./scripts/host_info.sh HOST_NAME PSQL_PORT db_name db_username db_password`
+
+- `crontab`
+  - edit the crontab file with the path to the host_usage.sh script that will be executed every minute
+  
+  `* * * * * bash [path to host_usage.sh] HOST_NAME PSQL_PORT db_name db_username db_password > /tmp/host_usage.log`
+
+- `queries.sql`
+  - First Query: Group hosts by CPU number and sort by their memory size in descending order
+  - Second Query: Average used memory in percentage over 5 mins interval for each host. 
+  - Third Query: Checks whether the cron job has failed or not. If updated less than three times in a span of five minutes it is considered a failure. 
+
+# Database Modeling
+
+The two tables below show the schema for Host Info and Host Usage. 
+
+### Host Info 
+| NAME             | TYPE       | CONSTRAINT  |
+|------------------|------------|-------------|
+| id               | SERIAL     | Primary key |
+| hostname         | VARCHAR    | not null    |
+| cpu_number       | INT        | not null    |
+| cpu_architecture | VARCHAR    | not null    |
+| cpu_model        | VARCHAR    | not null    | 
+| cpu_mhz          | FLOAT      | not null    | 
+| l2_cache         | INT        | not null    |
+| total_mem        | INT        | not null    |
+| timestamp        | TIMESTAMP  | not null    |
+
+### Host Usage 
+| NAME           | TYPE      | CONSTRAINT                   |
+|----------------|-----------|------------------------------|
+| timestamp      | TIMESTAMP | not null                     |
+| host_id        | INT       | Foreign Key (host_info.id)   |
+| memory_free    | FLOAT     | not null                     |
+| cpu_idle       | INT       | not null                     |
+| cpu_kernel     | INT       | not null                     | 
+| disk_io        | INT       | not null                     | 
+| disk_available | FLOAT     | not null                     |
+
