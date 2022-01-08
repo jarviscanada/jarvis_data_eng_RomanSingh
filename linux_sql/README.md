@@ -90,9 +90,7 @@ The two tables below show the schema for Host Info and Host Usage.
 | disk_available | FLOAT     | not null                     |
 
 # Testing 
-
-
-
+Bash scripts were run on terminal and the results were as expected. SQL queries provided sample data and were also as expected. 
 
 # Deployment 
 - Through the use of Docker a postgreSQL database was provisioned. The `host_info.sh` script was run once to record hardware specs, while the `host_usage.sh` was run every minute with crontab to record usage data every minute. All the scripts were stored on GitHub. 
