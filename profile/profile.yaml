@@ -1,3 +1,4 @@
+name: "Roman Singh"
 
 # Your GitHub repo root URL
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
@@ -41,9 +42,9 @@ jarvis_projects:
 
 
 #    git_url: "/core_java"    description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+#      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+ #     - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+  #    - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
   - name: "Springboot App"
     git_url: "/springboot"
     description: ""
@@ -89,11 +90,11 @@ professional_experience:
 education: 
   - school_name: "McMaster University"
     duration: "2015-2019"
-    degree: "Bachelor of Sciences"
+    degree: "Bachelor of Science"
     department: "Physics and Astronomy"
-#    awards_achievements: 
- #     - "Scholarship"
-  #    - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+    awards_achievements: 
+      - "3rd Place Deca Regionals"
+      - "2nd Place McMaster University Physics Contest"
    #   - "GPA: 3.8/4.0"
  # - school_name: "XYZ university"
   #  duration: "2016-2018"
@@ -101,10 +102,13 @@ education:
    # department: "Electrical and Computer Engineering"
    # awards_achievements: 
 
-#Optional section
-Miscellaneous:
-    bullets:
-      - "Bhangra Dancer"
-      - "Languages: English, Punjabi, Hindi, Urdu"
-      - "Fitness Enthusiast"
-      - "Dog Lover"  
+#Optional section:
+others:
+
+    #category
+    #
+      - title: "Languages"
+        bullets:
+                - "English, Punjabi, Hindi, Urdu"
+   
+                
