@@ -4,7 +4,8 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words                                                                             
-summary: "I've graduated in 2019 with a B.Sc. in Physics at McMaster University. I am currently employed at Jarvis Consulting Group with the objective of gaining more hands on experience in software development, through working on various exciting projects and utilizing various technologies and frameworks. My programming experiences during my undergrad classes sparked my interest in software development. I highly enjoy problem solving and the dynamic nature of the profession is what excites me most."
+summary: "I've graduated in 2019 with a B.Sc. in Physics at McMaster University. I am currently employed at Jarvis Consulting Group with the intent to gain more hands-on experience in software development, through working on various exciting projects and utilizing various technologies and frameworks. My programming experiences during my undergrad classes sparked my interest in software development. I highly enjoy problem-solving and the dynamic nature of the profession is what excites me most."
+
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
@@ -39,7 +40,6 @@ jarvis_projects:
     description: "Utilized a PostgreSQL database, provisioned by Docker, to develop a Linux Cluster Monitoring Agent. This would allow users to extract hardware specifications and server usage data of each node in the system. Bash scripts were programmed to extract hardware specs, while crontab would provide periodic updates of the usage data."
 
 
-
 #    git_url: "/core_java"    description:
       - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
@@ -68,7 +68,7 @@ highlighted_projects:
     #URL is optional
    # git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Built a full stack  scalable collaborative music playing web app, by developing a REST API using Django REST framework, to connect to the third party Spotify API, enabling guests in a room to vote on playing/pausing, or skipping a song. The front-end was developed using React to create the pages, along with material UI components to add style."
+    description: "Built a full-stack scalable collaborative music playing web app, by developing a REST API using Django REST framework, to connect to the third-party Spotify API, enabling guests in a room to vote on playing/pausing, or skipping a song. The front-end was developed using React to create the pages, along with material UI components to add style."
 
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
