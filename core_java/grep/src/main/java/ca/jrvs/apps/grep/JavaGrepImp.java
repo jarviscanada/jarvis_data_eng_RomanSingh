@@ -33,6 +33,12 @@ public class JavaGrepImp implements JavaGrep {
         writeToFile(matchedLines);
     }
 
+    /** Matchedlines is an array list, which will contain all the lines from our file that match the regex (regex is a special text string for describing a search pattern
+
+
+
+
+
     /**
      * Traverse a given directory and return all files.
      * @param rootDir input directory.

@@ -4,12 +4,12 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-public interface JavaGrep {
+public interface JavaGrep {       /* create an abstract class called JavaGrep that is accessible to other classes
     /**
      * Top-level search workflow.
      * @throws IOException
      */
-    void process() throws IOException;
+    void process() throws IOException;        /* Tell you there's an error reading from a file or writing to a file
 
     /**
      * Traverse a given directory and return all files.
@@ -24,6 +24,7 @@ public interface JavaGrep {
      * @throws IllegalArgumentException if a given inputFile is not a file.
      */
     List<String> readLines(File inputFile);
+
 
     /**
      * Check if a line contains the regex pattern (passed by the user).
