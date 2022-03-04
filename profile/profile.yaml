@@ -22,7 +22,8 @@ skills:
     - Python/Django            
     - JavaScript/React
     - HTML/CSS 
-    - Docker 
+    - Docker
+    - Maven 
   # At least 5 skills
   familiar:
     - C
@@ -41,7 +42,7 @@ jarvis_projects:
 
 
     git_url: "/core_java"   
-   # description:
+    description:
 #      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
  #     - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       "Grep App: Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker."
@@ -111,19 +112,19 @@ education:
   #      bullets:
   #              - "English, Punjabi, Hindi, Urdu"
  # .
-Optional section:
+#Optional section:
 others:
     #category
       - title: "Certificates"
-    #      bullets:
+        bullets:
                 - "Web Programming with Python and Javascript (Harvard edX, 2020)"
-                  - title: "Languages"
-                      bullets:
-                            - "Languages: English, Punjabi, Hindi, Urdu"
-                              - title: "Activities/Hobbies"
-                                  bullets:
-                                        - "Assistant Bhangra Dancing Coach"
-                                              - "Fitness Influencer"
-                                                    - "Dog Watcher"
-                                                          - "Marvel, DC, Anime fan"
+      - title: "Languages"
+        bullets:
+                - "Languages: English, Punjabi, Hindi, Urdu"
+      - title: "Activities/Hobbies"
+        bullets:
+                - "Assistant Bhangra Dancing Coach"
+                - "Fitness Influencer"
+                - "Dog Watcher"
+                - "Marvel, DC, Anime fan"
                
