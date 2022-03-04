@@ -34,18 +34,18 @@ skills:
         
 # List of Jarvis projects
 jarvis_projects:
-  - name: "Cluster Monitor"
-    git_url: "/linux_sql"
+ - name: "Cluster Monitor"
+   git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://
-    description: "Implemented a monitoring agent that can track the hardware specifications and usage of various nodes and store their data in a database. The monitoring agent was developed through the use of bash scripts and utilized a PostgresSQL database, provisioned by docker. Bash scripts were programmed to extract hardware specs, while crontab would provide periodic updates of the usage data. Manual testing was done by running bash scripts on the terminal to ensure the results were as expected."
+   description: "Implemented a monitoring agent that can track the hardware specifications and usage of various nodes and store their data in a database. The monitoring agent was developed through the use of bash scripts and utilized a PostgresSQL database, provisioned by docker. Bash scripts were programmed to extract hardware specs, while crontab would provide periodic updates of the usage data. Manual testing was done by running bash scripts on the terminal to ensure the results were as expected."
 
-
-    git_url: "/core_java"   
-    description:
+ - name: "Grep App"       
+   git_url: "/core_java"   
+   description:
 #      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
  #     - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      "Grep App: Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker."
+    "Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker."
  # - name: "Springboot App"
   #  git_url: "/springboot"
    # description: ""
