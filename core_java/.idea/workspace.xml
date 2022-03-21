@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b19d3b7-a3f3-41f9-8325-f31013e508ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/CustomerDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/DatabaseConnectManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/JDBCExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/util/DataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc/util/DataTransferObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdbc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdbc/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../linux_sql/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../linux_sql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/TwitterHttpHelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
