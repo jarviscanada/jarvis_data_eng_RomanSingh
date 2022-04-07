@@ -1,0 +1,130 @@
+name: "Roman Singh"
+
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words                                                                             
+summary: "I graduated from McMaster University with a B.Sc. in Physics and a background in computer science. I am currently employed at Jarvis Consulting Group with the intent to gain more hands-on experience in software development through working on various exciting projects and utilizing various technologies and frameworks. Working at Jarvis Consulting Group has also allowed me to exercise skills in scrum, agile, time management, and collaboration.  My programming experiences during my undergrad classes sparked my interest in software development. I highly enjoy problem-solving and the dynamic nature of the profession is what excites me most."
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Python/Django            
+    - JavaScript/React
+    - HTML/CSS 
+    - Docker
+    - Maven 
+  # At least 5 skills
+  familiar:
+    - C
+    - MATLAB
+    - LaTeX
+    - Ajax 
+    - JQuery     
+        
+# List of Jarvis projects
+jarvis_projects:
+ - name: "Cluster Monitor"
+   git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://
+   description: "Implemented a monitoring agent that can track the hardware specifications and usage of various nodes and store their data in a database. The monitoring agent was developed through the use of bash scripts and utilized a PostgresSQL database, provisioned by docker. Bash scripts were programmed to extract hardware specs, while crontab would provide periodic updates of the usage data. Manual testing was done by running bash scripts on the terminal to ensure the results were as expected."
+
+ - name: "Grep App"       
+   git_url: "/core_java"   
+   description:
+#      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+ #     - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+    "Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker."
+ # - name: "Springboot App"
+  #  git_url: "/springboot"
+   # description: ""
+  #- name: "Python Data Analytics"
+   # git_url: "/python_data_anlytics"
+    #description: ""
+  #- name: "Hadoop"
+   # git_url: "/hadoop"
+    #description: ""
+  #- name: "Spark"
+   # git_url: "/spark"
+    #description: ""
+  #- name: "Cloud/DevOps"
+   # git_url: "/cloud_devops"
+    #description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "MusicX"
+    #URL is optional
+   # git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Built a full-stack scalable collaborative music-playing web app, by developing a REST API using Python Django REST framework, to connect to the Spotify API, enabling guests in a room to vote on playing/pausing, or skipping a song. The front-end was developed using React to create the pages, along with material UI components to add style. Manual testing was done to ensure the web pages behaved as intended. The website was hosted using a free python website."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2021-Present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Developed agile methodologies by collaborating with a scrum team to develop and implement numerous projects utilizing technologies such as Linux, PostgreSQL, Docker, and Git. Assisted others in project-related issues, and held daily scrum meetings as a scrum leader."
+ # - title: "Tutor"
+  #  company: "XYZ Company"
+   # duration: "2019"
+    #description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+
+#List of edcuation
+education: 
+  - school_name: "McMaster University"
+    duration: "2015-2019"
+    degree: "Bachelor of Science"
+    department: "Physics and Astronomy"
+    awards_achievements: 
+      - "3rd Place Deca Regionals"
+      - "2nd Place McMaster University Physics Contest"
+   #   - "GPA: 3.8/4.0"
+ # - school_name: "XYZ university"
+  #  duration: "2016-2018"
+   # degree: "Master of Engineering"
+   # department: "Electrical and Computer Engineering"
+   # awards_achievements: 
+
+#Optional section:
+#others:
+
+    #category
+    #
+   #   - title: "Languages"
+  #      bullets:
+  #              - "English, Punjabi, Hindi, Urdu"
+ # .
+#Optional section:
+others:
+    #category
+      - title: "Certificates"
+        bullets:
+                - "Web Programming with Python and Javascript (Harvard edX, 2020)"
+      - title: "Languages"
+        bullets:
+                - "Languages: English, Punjabi, Hindi, Urdu"
+      - title: "Activities/Hobbies"
+        bullets:
+                - "Assistant Bhangra Dancing Coach"
+                - "Fitness Influencer"
+                - "Dog Watcher"
+                - "Comic Book Fan"
+               
