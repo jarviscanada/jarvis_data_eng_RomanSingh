@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc-learning.iml" filepath="$PROJECT_DIR$/jdbc/jdbc-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter/twitter.iml" filepath="$PROJECT_DIR$/twitter/twitter.iml" />
     </modules>
   </component>
 </project>

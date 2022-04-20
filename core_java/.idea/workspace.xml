@@ -5,9 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b19d3b7-a3f3-41f9-8325-f31013e508ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/TwitterHttpHelperTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oauth_signpost_signpost_commonshttp4_1_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oauth_signpost_signpost_core_1_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/TwitterCLIApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/controller/TwitterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/JsonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/TweetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/model/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/model/Entities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/model/Hashtag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/model/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/model/UserMention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/service/TwitterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/spring/TwitterCLIBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/spring/TwitterCLIComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/spring/TwitterCLISpringBoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/controller/TwitterControllerIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/TwitterDaoIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/TwitterDaoUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/service/TwitterServiceIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/service/TwitterServiceUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/TwitterDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/TwitterDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/TwitterHttpHelperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/CrdDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/helper/HttpHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/HttpHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/dao/helper/TwitterHttpHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/twitter/src/main/java/ca/jrvs/apps/twitter/service/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +133,9 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -60,6 +152,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -76,27 +169,19 @@
       <recent name="$PROJECT_DIR$/jdbc/src/main/java/ca/jrvs/apps/jdbc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/twitter/src/test/java/ca/jrvs/apps/twitter/dao" />
       <recent name="$PROJECT_DIR$/grep/src/main/java" />
       <recent name="$PROJECT_DIR$/grep/src/main/ca/jrvs/apps" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ca.jrvs.apps.grep" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ca.jrvs.apps.twitter.controller" />
+      <recent name="ca.jrvs.apps.twitter.dao.helper" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.JDBCExecutor">
-    <configuration name="JDBCExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.jdbc.JDBCExecutor" />
-      <module name="jdbc-learning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ca.jrvs.apps.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwitterCLISpringBoot">
     <configuration name="JavaGrepImp" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -119,6 +204,138 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterCLIApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="consumerKey" value="mHHsUMQ33oLACUfvVIU1rNOse" />
+        <env name="consumerSecret" value="BTx1HStagEXtJfBw5OkYIxKaAfzt8R2HQRRqByNtLl0HZgBEze" />
+        <env name="accessToken" value="1501623472665022468-FpQCX2wFHlPUdWmcVMOm53C58JqQ3z" />
+        <env name="tokenSecret" value="3qFSYcB6UowUjCeOIVJYnsLJpPVnWMI0b6KDIf3xUwD6g" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.TwitterCLIApp" />
+      <module name="twitter" />
+      <option name="PROGRAM_PARAMETERS" value=" post 'hello' 43.872639:79.585831" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterCLIBean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.spring.TwitterCLIBean" />
+      <module name="twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterCLIComponentScan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.spring.TwitterCLIComponentScan" />
+      <module name="twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterCLISpringBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="consumerKey" value="mHHsUMQ33oLACUfvVIU1rNOse" />
+        <env name="consumerSecret" value="BTx1HStagEXtJfBw5OkYIxKaAfzt8R2HQRRqByNtLl0HZgBEze" />
+        <env name="accessToken" value="1501623472665022468-FpQCX2wFHlPUdWmcVMOm53C58JqQ3z" />
+        <env name="tokenSecret" value="3qFSYcB6UowUjCeOIVJYnsLJpPVnWMI0b6KDIf3xUwD6g" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.spring.TwitterCLISpringBoot" />
+      <module name="twitter" />
+      <option name="PROGRAM_PARAMETERS" value="twitter_app post yo yo roman singh is in the house 43.872639:-79.585831" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterControllerIntTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.jrvs.apps.twitter.controller" />
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.controller.TwitterControllerIntTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="consumerKey" value="mHHsUMQ33oLACUfvVIU1rNOse" />
+        <env name="consumerSecret" value="BTx1HStagEXtJfBw5OkYIxKaAfzt8R2HQRRqByNtLl0HZgBEze" />
+        <env name="accessToken" value="1501623472665022468-FpQCX2wFHlPUdWmcVMOm53C58JqQ3z" />
+        <env name="tokenSecret" value="3qFSYcB6UowUjCeOIVJYnsLJpPVnWMI0b6KDIf3xUwD6g" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterDaoIntTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.jrvs.apps.twitter.dao" />
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.dao.TwitterDaoIntTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="consumerKey" value="mHHsUMQ33oLACUfvVIU1rNOse" />
+        <env name="consumerSecret" value="BTx1HStagEXtJfBw5OkYIxKaAfzt8R2HQRRqByNtLl0HZgBEze" />
+        <env name="accessToken" value="1501623472665022468-FpQCX2wFHlPUdWmcVMOm53C58JqQ3z" />
+        <env name="tokenSecret" value="3qFSYcB6UowUjCeOIVJYnsLJpPVnWMI0b6KDIf3xUwD6g" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwitterServiceIntTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twitter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.jrvs.apps.twitter.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.jrvs.apps.twitter.service" />
+      <option name="MAIN_CLASS_NAME" value="ca.jrvs.apps.twitter.service.TwitterServiceIntTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <envs>
+        <env name="consumerKey" value="mHHsUMQ33oLACUfvVIU1rNOse" />
+        <env name="consumerSecret" value="BTx1HStagEXtJfBw5OkYIxKaAfzt8R2HQRRqByNtLl0HZgBEze" />
+        <env name="accessToken" value="1501623472665022468-FpQCX2wFHlPUdWmcVMOm53C58JqQ3z" />
+        <env name="tokenSecret" value="3qFSYcB6UowUjCeOIVJYnsLJpPVnWMI0b6KDIf3xUwD6g" />
+      </envs>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -148,12 +365,22 @@
     </configuration>
     <list>
       <item itemvalue="Application.JavaGrepImp" />
-      <item itemvalue="Application.JDBCExecutor" />
+      <item itemvalue="Application.TwitterCLIApp" />
+      <item itemvalue="Application.TwitterCLISpringBoot" />
+      <item itemvalue="Application.TwitterCLIComponentScan" />
+      <item itemvalue="Application.TwitterCLIBean" />
+      <item itemvalue="JUnit.TwitterDaoIntTest" />
+      <item itemvalue="JUnit.TwitterControllerIntTest" />
+      <item itemvalue="JUnit.TwitterServiceIntTest" />
       <item itemvalue="Maven.jdbc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCExecutor" />
+        <item itemvalue="Application.TwitterCLISpringBoot" />
+        <item itemvalue="Application.TwitterCLIBean" />
+        <item itemvalue="Application.TwitterCLIComponentScan" />
+        <item itemvalue="Application.TwitterCLIApp" />
+        <item itemvalue="JUnit.TwitterServiceIntTest" />
       </list>
     </recent_temporary>
   </component>
