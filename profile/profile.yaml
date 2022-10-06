@@ -12,15 +12,15 @@ summary: "I graduated from McMaster University with a B.Sc. in Physics and a bac
 skills:
   # At least 5 skills
   proficient:
-    - Java
-    - Linux/Bash
+    - Python/Django
+    - JavaScrupt/React
     - RDBMS/SQL
     - Agile/Scrum
     - Git
   # At least 5 skills
   competent:
-    - Python/Django            
-    - JavaScript/React
+    - Java            
+    - Linux/Bash 
     - HTML/CSS 
     - Docker
     - Maven 

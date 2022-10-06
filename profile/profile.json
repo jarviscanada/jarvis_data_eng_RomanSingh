@@ -70,8 +70,8 @@
   ],
   "skills": {
     "competent": [
-      "Python/Django",
-      "JavaScript/React",
+      "Java",
+      "Linux/Bash",
       "HTML/CSS",
       "Docker",
       "Maven"
@@ -84,8 +84,8 @@
       "JQuery"
     ],
     "proficient": [
-      "Java",
-      "Linux/Bash",
+      "Python/Django",
+      "JavaScrupt/React",
       "RDBMS/SQL",
       "Agile/Scrum",
       "Git"
