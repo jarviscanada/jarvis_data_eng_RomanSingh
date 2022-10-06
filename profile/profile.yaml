@@ -77,9 +77,13 @@ highlighted_projects:
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
+  - title: "Full Stack Developer"
+    company: "Royal Bank of Canada"
+    duration: "May 2022 - October 2022"
+    description: "Supported the Business Intelligence team in planning, developing, implementing, and testing the Project Management Continuous Initiative application. Documented and tracked testing defects, debugged, and troubleshoot to ensure new requirements were implemented while existing functionality was not compromised."
   - title: "Software Developer"
     company: "Jarvis"
-    duration: "2021-Present"
+    duration: "December 2021-Present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Developed agile methodologies by collaborating with a scrum team to develop and implement numerous projects utilizing technologies such as Linux, PostgreSQL, Docker, and Git. Assisted others in project-related issues, and held daily scrum meetings as a scrum leader."
  # - title: "Tutor"
