@@ -13,7 +13,7 @@ skills:
   # At least 5 skills
   proficient:
     - Python/Django
-    - JavaScrupt/React
+    - JavaScript/React
     - RDBMS/SQL
     - Agile/Scrum
     - Git
