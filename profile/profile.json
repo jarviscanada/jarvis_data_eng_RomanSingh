@@ -25,7 +25,7 @@
       "name": "Cluster Monitor"
     },
     {
-      "description": "Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker.",
+      "description": "Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to ensure the output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker.",
       "git_url": "/core_java",
       "name": "Grep App"
     }
