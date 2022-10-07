@@ -4,9 +4,9 @@ I graduated from McMaster University with a B.Sc. in Physics and a background in
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Python/Django, JavaScript/React, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Python/Django, JavaScript/React, HTML/CSS, Docker, Maven
+**Competent:** Java, Linux/Bash, HTML/CSS, Docker, Maven
 
 **Familiar:** C, MATLAB, LaTeX, Ajax, JQuery
 
@@ -17,7 +17,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RomanSingh/tree/master/linux_sql)]: Implemented a monitoring agent that can track the hardware specifications and usage of various nodes and store their data in a database. The monitoring agent was developed through the use of bash scripts and utilized a PostgresSQL database, provisioned by docker. Bash scripts were programmed to extract hardware specs, while crontab would provide periodic updates of the usage data. Manual testing was done by running bash scripts on the terminal to ensure the results were as expected.
 
-**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RomanSingh/tree/master/core_java)]: Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker.
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_RomanSingh/tree/master/core_java)]: Created an app that mimics the Linux Grep command, allowing users to search for matching strings. The project was implemented using Java along with Lambda and Stream APIs. Automated testing was done using JUnit to make sure functions behaved as intended, along with manual testing to ensure the output file was correct. The app was packaged using Maven and deployed on Docker Hub using Docker.
 
 
 ## Highlighted Projects
@@ -28,7 +28,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
 
 **Full Stack Developer, Royal Bank of Canada (May 2022 - October 2022)**: Supported the Business Intelligence team in planning, developing, implementing, and testing the Project Management Continuous Initiative application. Documented and tracked testing defects, debugged, and troubleshoot to ensure new requirements were implemented while existing functionality was not compromised.
 
-**Software Developer, Jarvis (December 2021-Present)**: Developed agile methodologies by collaborating with a scrum team to develop and implement numerous projects utilizing technologies such as Linux, PostgreSQL, Docker, and Git. Assisted others in project-related issues, and held daily scrum meetings as a scrum leader.
+**Software Developer, Jarvis (December 2021- October 2022)**: Developed agile methodologies by collaborating with a scrum team to develop and implement numerous projects utilizing technologies such as Linux, PostgreSQL, Docker, and Git. Assisted others in project-related issues, and held daily scrum meetings as a scrum leader.
 
 
 ## Education
