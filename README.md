@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Roman Singh . Jarvis Consulting
+=======
+>>>>>>> 1eb362aa0a9cb0eec0a27668e0d21d9fba6d22ad
 
-I graduated from McMaster University with a B.Sc. in Physics and a background in computer science. I am currently employed at Jarvis Consulting Group with the intent to gain more hands-on experience in software development through working on various exciting projects and utilizing various technologies and frameworks. Working at Jarvis Consulting Group has also allowed me to exercise skills in scrum, agile, time management, and collaboration.  My programming experiences during my undergrad classes sparked my interest in software development. I highly enjoy problem-solving and the dynamic nature of the profession is what excites me most.
 
+<<<<<<< HEAD
 ## Skills
 
 **Proficient:** Python/Django, JavaScript/React, RDBMS/SQL, Agile/Scrum, Git
@@ -48,3 +51,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_RomanSingh
 =======
 
 >>>>>>> master
+=======
+>>>>>>> 1eb362aa0a9cb0eec0a27668e0d21d9fba6d22ad
