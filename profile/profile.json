@@ -57,14 +57,14 @@
   "professional_experience": [
     {
       "company": "Royal Bank of Canada",
-      "description": "Supported the Business Intelligence team in planning, developing, implementing, and testing the Project Management Continuous Initiative application. Documented and tracked testing defects, debugged, and troubleshoot to ensure new requirements were implemented while existing functionality was not compromised.",
+      "description": "Developed a full stack scalable application, Project Management Continuous Initiative, allowing members of the Business Intelligence team to track each other's progress on projects. Implemented a SharePoint API using Django REST framework to extract project data from SharePoint and upload it onto our RBC project tracking application. Tested the application by utilizing a PostgreSQL database to track and report all errors, while implementing new requirements and making sure existing functionality is not compromised.",
       "duration": "May 2022 - October 2022",
       "title": "Full Stack Developer"
     },
     {
       "company": "Jarvis",
       "description": "Developed agile methodologies by collaborating with a scrum team to develop and implement numerous projects utilizing technologies such as Linux, PostgreSQL, Docker, and Git. Assisted others in project-related issues, and held daily scrum meetings as a scrum leader.",
-      "duration": "December 2021- October 2022",
+      "duration": "December 2021 - Present",
       "title": "Software Developer"
     }
   ],
